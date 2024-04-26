@@ -1,2 +1,1 @@
-console.log('halo semua')
-git config --global user.name ""
+console.log('halo')
